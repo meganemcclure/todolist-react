@@ -1,0 +1,10 @@
+.headerContainer {
+  padding: 10px;
+  background-color: cornflowerblue;
+  color: whitesmoke;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
